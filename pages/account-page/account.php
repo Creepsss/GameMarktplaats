@@ -16,18 +16,30 @@
     <?php include ('../../includes/navbar/navbar.php'); ?>
     </header>
 
+
+<div class="dick text-white"><p>User123</p> 
 <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar">
-<div class="dick text-white"><h1>User123</h1> </div>
-<div class="box1 text-white"><h2>Email:bla@gmail.com</h2></div>
-<div class="box2 text-white"><h2>Email:bla@gmail.com</h2></div>v
+    <div>Email: drldoo</div>
+    <div>Telephone number</div>
+    <div class="review">
+    <span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+<span class="fa fa-star"></span>
+</div>
+</div> 
+
+<div class="container  text-white">
+    <div class="info">informatie</div>
+    <div>Delivery Time: 2 days</div>
+    <div>Warrant: none</div>
+    <div>Current bid: 20 EUR</div>
+    <div>Time of last bid: 30 minutes ago</div>
+    <br>
+    <button>Bid</button>
 </div>
 
-<div class="review">
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<span class="fa fa-star"></span>
-</div>
+
 </body>
 </html>
