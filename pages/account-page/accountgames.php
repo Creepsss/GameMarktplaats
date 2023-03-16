@@ -28,18 +28,13 @@
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
-</div> 
-
-<div class="container  text-white">
-    <div class="info">informatie</div>
-    <div>Delivery Time: 2 days</div>
-    <div>Warrant: none</div>
-    <div>Current bid: 20 EUR</div>
-    <div>Time of last bid: 30 minutes ago</div>
-    <br>
-    <button>Bid</button>
 </div>
-
-
+<div class="games  text-white">
+    <div>Xbox one pass <div><p>10 EUR</p> </div><div><img src="https://assets.xboxservices.com/assets/26/b8/26b87bdf-d6ca-446a-8fc9-a5fe6e6484fd.jpg?n=XGP_Image-0_Boxshot-Standard_XGP-Catalog_720x1080.jpg" alt="Avatar" class="xbox"> </div><br><div><img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar"><p>User123</p></div></div>
+    <div>Valorent Key<div><p>10 EUR</p> </div><div><img src="https://kaartdirect.nl/storage/thumbnails/default/e3/y3/phndue8kcs0o4sosco4wc.png?p=kaartdirect.nl%2Fimages%2Fproducts%2Fvalorant-gift-card-eur10-1652313557.png&s=https&widen=400" alt="Avatar" class="xbox"> </div><br><div><img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar"><p>User123</p></div></div>
+    <div>PS4 Fifa 23</div>
+    <div>Game</div>
+    <div>Steam Key</div>
+</div> 
 </body>
 </html>
