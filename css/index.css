@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.body-color{
+    background-color: #292D32;
+}
+
+.container-color{
+    background-color: #202428;
+}
+
+.container-25{
+    width: 25%;
+    height: 100%;
+}
+
+.container-75{
+    width: 75%;
+    height: 100%;
+}
+
+.container-height{
+    height: 80vh;
+}

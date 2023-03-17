@@ -7,7 +7,6 @@
 <meta name="author" content="Game-Marktplaats, email@gmail.com">
 <meta name="url" content="http://localhost.com">
 <meta name="identifier-URL" content="http://localhost.com">
-<meta name="category" content="">
 <meta name="coverage" content="Worldwide">
 <meta name="distribution" content="Global">
 <meta name="rating" content="General">
