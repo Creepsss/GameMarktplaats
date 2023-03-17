@@ -513,40 +513,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.container {
-  width: 100%;
-}
-
-@media (min-width: 640px) {
-  .container {
-    max-width: 640px;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    max-width: 768px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .container {
-    max-width: 1024px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .container {
-    max-width: 1280px;
-  }
-}
-
-@media (min-width: 1536px) {
-  .container {
-    max-width: 1536px;
-  }
-}
-
 .flex {
   display: flex;
 }
@@ -610,13 +576,17 @@ video {
   color: rgb(212 212 216 / var(--tw-text-opacity));
 }
 
+/* bovenste gedeelde van pagina t/m user */
+
 .dick{
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #454545;
   border: 4px solid lightgrey;
-  padding: 80px;
+  padding: 100px;
   gap:20px;
+  margin: 20px;
+  padding-top: 1px;
 }
 
 .dick>div{
@@ -626,17 +596,29 @@ video {
   -moz-column-gap: 20px;
   column-gap: 20px;
   border: 3px solid lightgrey;
+  border-style:groove;
+  margin-left: 150px;
+  top: 90px;
+  position: relative;
+  background-color: black;
+  font-family: italic;
 }
 
 .dick .avatar{
   border: 3px solid lightgrey;
   position: absolute;
-  margin-left: -50px;
   vertical-align: middle;
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
-  margin-top: -15px;
+  margin-top: 10px;
+  margin-left: -80px;
+}
+
+.user {
+  font-size: 30px;
+  margin-top: 21px;
+  margin-left: 20px;
 }
 
 body {
@@ -667,6 +649,7 @@ h2 {
   background-color: #454545;
   padding: 80px;
   gap:20px;
+  width: 100vw;
 }
 
 .container>div {
@@ -692,19 +675,20 @@ h2 {
 .games {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color: #454545;
   padding: 80px;
   gap:20px;
 }
 
 .games>div {
   text-align: center;
-  padding: 60px;
+  padding: 40px;
   font-size: 18px;
   -moz-column-gap: 20px;
   column-gap: 20px;
   border: 3px solid lightgrey;
   width: 300px;
+  border-style:groove;
+  background-color: #454545;
 }
 
 .games .avatar{
@@ -715,4 +699,43 @@ h2 {
   border-radius: 50%;
   position: absolute;
   margin-top: -10px;
+}
+
+.euro {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 170px;
+}
+
+.gamettext {
+  position: absolute;
+  margin-left: 20px;
+}
+
+.boxes {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #454545;
+  padding: 80px;
+  gap:20px;
+}
+
+.boxes>div {
+  text-align: center;
+  padding: 40px;
+  font-size: 18px;
+  -moz-column-gap: 20px;
+  column-gap: 20px;
+  border: 3px solid lightgrey;
+  width: 300px;
+}
+
+.boxing {
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+  -moz-column-gap: 20px;
+  column-gap: 20px;
+  border: 3px solid lightgrey;
+  width: 300px;
 }

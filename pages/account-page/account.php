@@ -17,7 +17,7 @@
     </header>
 
 
-<div class="dick text-white"><p>User123</p> 
+<div class="dick text-white"><h2 class="user">User123</h2>
 <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar">
     <div>Email: drldoo</div>
     <div>Telephone number</div>
@@ -30,7 +30,7 @@
 <span class="fa fa-star"></span>
 </div> 
 
-<div class="container  text-white">
+<div class="boxes  text-white" >
     <div class="info">informatie</div>
     <div>Delivery Time: 2 days</div>
     <div>Warrant: none</div>
