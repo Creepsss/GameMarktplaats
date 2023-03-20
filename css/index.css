@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.account-dropdown {
+    display: flex;
+    flex-direction: column;
+    
+}
