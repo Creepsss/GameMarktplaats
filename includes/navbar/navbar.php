@@ -1,4 +1,4 @@
-<nav class="flex bg-zinc-700 text-zinc-300 text-center justify-between p-10">
+<nav class="sticky flex bg-zinc-700 text-zinc-300 text-center justify-between p-4">
     <div>
         <p>Logo</p>
     </div>
