@@ -13,6 +13,7 @@
         <div class="flex min-h-full w-11/12 p-5 m-5 bg-color-2 drop-shadow-1">
             <div class="bg-color-3 m-3 p-3">
                 <p class="text-white">Popular Games</p>
+                <div class="flex ">
             </div>
         </div>
     </div>
