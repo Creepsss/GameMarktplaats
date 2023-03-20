@@ -15,5 +15,9 @@
 }
 
 .drop-shadow-1{
-    filter: drop-shadow(8px 8px 10px #24262C) drop-shadow(-8px -8px 10px #30343A);
+    filter: drop-shadow(8px 8px 5px #24262C) drop-shadow(-8px -8px 5px #30343A);
+}
+
+.low-opacity-1{
+    opacity: 0.4;
 }
