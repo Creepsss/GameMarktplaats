@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-color-1{
+    background-color: #292D32;
+}
+
+.bg-color-2{
+    background-color: #202428;
+}
+
+.bg-color-3{
+    background-color: #252A30;
+}
+
+.drop-shadow-1{
+    filter: drop-shadow(8px 8px 5px #24262C) drop-shadow(-8px -8px 5px #30343A);
+}
+
+.low-opacity-1{
+    opacity: 0.4;
+}
