@@ -31,12 +31,11 @@
 </div> 
 
 <div class="boxes  text-white" >
-    <div class="info">informatie</div>
+    <div class="info">information</div>
     <div>Delivery Time: 2 days</div>
     <div>Warrant: none</div>
     <div>Current bid: 20 EUR</div>
     <div>Time of last bid: 30 minutes ago</div>
-    <br>
     <button>Bid</button>
 </div>
 
