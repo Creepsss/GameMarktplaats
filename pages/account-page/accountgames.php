@@ -32,13 +32,6 @@
 <div class="games  text-white">
     <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
     <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p> </div></div>
-    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
-    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
-    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
-    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p> </div></div>
-    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
-    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
-    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
 </div> 
 </body>
 </html>
