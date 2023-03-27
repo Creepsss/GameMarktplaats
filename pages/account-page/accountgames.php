@@ -9,6 +9,7 @@
 .checked {
   color: orange;
 }
+
 </style>
 </head>
 <body>
@@ -16,11 +17,18 @@
     <?php include ('../../includes/navbar/navbar.php'); ?>
     </header>
 
-
-<div class="dick text-white"><h2 class="user">User123</h2>
+    <div class="zijkantlinks"></div>
+    <div class="zijkantrechts"></div>
+    <div class="zijkantboven"></div>
+    <div class="zijkantonder"></div>
+</div>
+<div class="dick text-white">
+</div>
+<div class="user">   
 <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar">
-    <div>Email: drldoo</div>
-    <div>Telephone number</div>
+
+</div>
+<div class="rectangle"></div>
 </div>
 <div class="review">
     <span class="fa fa-star checked"></span>

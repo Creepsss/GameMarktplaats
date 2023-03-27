@@ -582,29 +582,17 @@ video {
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #454545;
-  border: 4px solid lightgrey;
+  border: 1px solid lightgrey;
   padding: 100px;
   gap:20px;
   margin: 20px;
-  padding-top: 1px;
+  padding-top: 0px;
+  width: 1000px;
+  margin-left: 440px;
+  margin-top: 0px;
 }
 
-.dick>div{
-  text-align: center;
-  padding: 20px auto;
-  font-size: 18px;
-  -moz-column-gap: 20px;
-  column-gap: 20px;
-  border: 3px solid lightgrey;
-  border-style:groove;
-  margin-left: 150px;
-  top: 90px;
-  position: relative;
-  background-color: black;
-  font-family: italic;
-}
-
-.dick .avatar{
+.user .avatar{
   border: 3px solid lightgrey;
   position: absolute;
   vertical-align: middle;
@@ -622,7 +610,7 @@ video {
 }
 
 body {
-  background-color: black;
+  background-color: #1E1E1E;
 }
 
 h1 {
@@ -639,8 +627,8 @@ h2 {
 
 .review {
   position: absolute;
-  margin-top: -150px;
-  margin-left: 1250px;
+  margin-top: -140px;
+  margin-left: 1030px;
 }
 
 .container {
@@ -681,14 +669,16 @@ h2 {
 
 .games>div {
   text-align: center;
-  padding: 120px;
+  padding: 50px;
   font-size: 18px;
   -moz-column-gap: 20px;
   column-gap: 20px;
   border: 3px solid lightgrey;
-  width: 500px;
+  width: 330px;
   border-style:groove;
   background-color: #454545;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .games .avatar{
@@ -754,4 +744,49 @@ h2 {
 .boxes .button {
   background-color: #e7e7e7;
   color: black;
+}
+
+.milan{
+  color: blue;
+}
+
+.rectangle {
+  height: 30px;
+  width: 150px;
+  background-color: #555;
+  margin-top: -142px;
+  position: absolute;
+  margin-left: 1000px;
+}
+
+/* Rectangle 1 */
+
+.zijkantlinks {
+  position: absolute;
+  width: 40px;
+  height: 1806px;
+  background: #292D32;
+}
+
+.zijkantrechts {
+  position: absolute;
+  width: 40px;
+  height: 1806px;
+  background: #292D32;
+  margin-left: 1440px;
+}
+
+.zijkantboven {
+  position: absolute;
+  width: 40px;
+  height: 1806px;
+  background: #292D32;
+  margin-left: 5000px;
+}
+
+.zijkantonder {
+  position: absolute;
+  width: 40px;
+  height: 1806px;
+  background: #292D32;
 }
