@@ -28,9 +28,11 @@
 <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar">
 
 </div>
-<div class="rectangle"></div>
-</div>
+<div class="rectangle">
 <div class="review">
+</div>
+</div>
+
     <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
