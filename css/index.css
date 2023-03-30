@@ -7,32 +7,27 @@
   grid-template-columns: auto auto auto;
   background-color: #454545;
   border: 1px solid lightgrey;
-  padding: 40px;
+  padding: 41px;
   gap:20px;
   margin: 20px;
   padding-top: 0px;
   width: 1400px;
-  margin-left: 440px;
+  margin-left: 40px;
   margin-top: 0px;
 }
 
-
 .user .avatar{
   border: 3px solid lightgrey;
-  position: absolute;
+  position: relative;
   vertical-align: middle;
   width: 70px;
   height: 70px;
   border-radius: 50%;
-  margin-top: 10px;
-  margin-left: -80px;
+  margin-top: -90px;
+  margin-left: -700px;
+
 }
 
-.user {
-  font-size: 30px;
-  margin-top: 21px;
-  margin-left: 20px;
-}
 
 body {
   background-color: #1E1E1E;
@@ -90,7 +85,6 @@ h2 {
   grid-template-columns: auto auto auto;
   padding: 80px;
   gap:20px;
-
 }
 
 .games>div {
@@ -177,12 +171,12 @@ h2 {
 }
 
 .rectangle {
-  height: 30px;
+  height: 43px;
   width: 150px;
   background-color: #555;
-  margin-top: -142px;
+  margin-top: -64px;
   position: absolute;
-  margin-left: 1000px;
+  margin-left: 40px;
 }
 
 /* Rectangle 1 */
@@ -215,4 +209,36 @@ h2 {
   width: 40px;
   height: 1806px;
   background: #292D32;
+}
+
+.word {
+  margin-left: 50px;
+}
+
+/* Rectangle 27 */
+
+.rect {
+  box-sizing: border-box;
+  position: absolute;
+  width: 400px;
+  height: 130px;
+  margin-left: 958px;
+  background: #323232;
+  border: 1px solid #FFFFFF;
+  margin-top: 30px;
+}
+.user {
+  font-size: 30px;
+  margin-top: -110px;
+  margin-left: 20px;
+}
+
+.user > h2 {
+  margin-left: -620px;
+  margin-top: -53px;
+}
+
+.rect > i {
+  display: flex;
+  margin: 15px;
 }
