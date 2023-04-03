@@ -24,7 +24,7 @@
     <div class="zijkantboven"></div>
     <div class="zijkantonder"></div>
 </div>
-<h2 class="gamesale text-white">Games on sale by user:4</h2>
+<h2 class="gamesale text-white">Games on sale by user:8</h2>
 <div class="dick text-white">
 <h2 class="rev">Reviews:1</h2>
 <div class="rectangle">
@@ -60,6 +60,10 @@
 
 </div>
 <div class="games  text-white">
+    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
+    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p> </div></div>
+    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
+    <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p> </div></div>
     <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
     <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p> </div></div>
     <div>Valorent Key | Global steam key<div class="euro"<p>4,5 euro</p></div></div>
