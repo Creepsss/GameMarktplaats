@@ -1,0 +1,57 @@
+html{
+    background-color:#292D32;
+
+}
+body{
+    color: white;
+}
+
+.settingsDiv{
+    margin-top: 50px;
+    text-align:center;
+    margin: 10px;
+    background-color: #202428;
+    border-radius: 14px;
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 550px;
+}
+
+input{
+    border: 1px solid white;
+    background-color: #3E3E3E;
+    border-radius: 8px;
+    margin-left: 10px;  
+    width: 250px;
+    height: 30px;
+}
+
+button{
+    color: white;
+    background-color: 2F2F2F;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.password-div{
+    display: flex;
+}
+
+.username-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnDiv > button{
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.btnDiv2 > button{
+    margin-top: 15px;
+    padding: 5px ;
+}
+
+
