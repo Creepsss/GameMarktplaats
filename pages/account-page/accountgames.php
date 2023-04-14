@@ -39,7 +39,7 @@
 </div>
 
 <div class="user">   
-<img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar">
+<img src="https://e7.pngegg.com/pngimages/178/595/png-clipart-user-profile-computer-icons-login-user-avatars-monochrome-black.png" alt="Avatar" class="avatar">
 <h2 class="n" text-white">User293401 </h2>
 </div>
 </div>
