@@ -1,6 +1,6 @@
 <?php 
 session_start();
-if(isset($_SESSION['user_id'])):?>
+if(isset($_SESSION['user_id'])): ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,10 +11,13 @@ if(isset($_SESSION['user_id'])):?>
     <title>Document</title>
 </head>
 <body>
-    <a href="./settings.php?user_id=<?php echo $_SESSION['user_id']; ?>">BABA</a>
+    <a href="./settings.php?user_id=<?php echo $_SESSION['user_id']; ?>">Settings</a>
 </body>
 </html>
+
+
+
 <?php
-else: die;
+else: header("location: ../login/login.php");
 endif;
 ?>
