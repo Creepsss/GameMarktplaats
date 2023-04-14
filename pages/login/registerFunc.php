@@ -36,9 +36,9 @@ if(isset($_POST['Firstname']) && isset($_POST['Lastname']) && isset($_POST['Emai
         } else{
             $hash_password = password_hash($pass, PASSWORD_DEFAULT);
             $sql = "INSERT INTO `usertable` (`first_name`, `last_name`, `email`, `password`, `phonenumber`, `zipcode`, `location`, `id`) VALUES ('$firstname', '$lastname', '$email', '$hash_password', '$phone', '$zipcode', '$country', NULL)";
-
+            header("Location: ./login.php ");
             if ($pdo->query($sql) === TRUE) {
-                echo "New record created successfully";
+                
               }
         }
     } 

@@ -35,7 +35,7 @@
         </p>
 
         <div class="hidden group-hover/account:grid absolute right-0 bg-zinc-700 w-32 border-2 border-zinc-800 rounded-lg">
-            <a class="#" href="#">Profile</a>
+            <a class="#" href="./settings.php?user_id=<?php echo $_SESSION['user_id']; ?>">Profile</a>
             <a class="#" href="##">Listings</a>
             <a class="#" href="###">Login</a>
             <a class="#" href="####">Logout</a>

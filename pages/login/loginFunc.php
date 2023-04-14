@@ -28,7 +28,7 @@ if(isset($_POST['Email']) && isset($_POST['Password'])){
                     $_SESSION['user_email'] = $user_email;
                     $_SESSION['user_name'] = $user_name;
                     echo "$user_name";
-                    header("location: ../account_settings/");
+                    header("location: ../account_settings/loginRedirectPage.php");
                 }else{
                     header("Location: login.php?error=Incorrect username or password");
                 }
